@@ -5,35 +5,46 @@ background-color: #1a1a1a;
 
 
 .slide {
-margin:auto;
+margin-top: 8vh;
 }
 
 .argument {
+margin:auto;
 background-color: #fff;
 width: 80vw;
-height: 50vh;
+height: 65vh;
 border-top-left-radius: 25px;
 border-top-right-radius: 25px;
 }
 
 .tab {
+margin:auto;
 background-color: #ff2440;
 width: 80vw;
-height: 30vh;
+height: 20vh;
 border-bottom-left-radius: 25px;
 border-bottom-right-radius: 25px;
 }
 
 .wrapper-images {
-margin: auto;
-padding-top: 25px;
-}
-
-.img-dv {
-display: inline-block;
-margin-right: 15px;
+text-align: center;
+padding-top: 3vh;
+height: 20vh;
 }
 
 .icone {
 border-radius: 10px;
+width: 8rem;
+height: auto;
+margin-right: 25px;
+}
+
+
+
+.icone-last {
+margin-right: 0;
+}
+
+.icone:hover {
+width: 9rem;
 }
