@@ -1,0 +1,39 @@
+
+body {
+background-color: #1a1a1a;
+}
+
+
+.slide {
+margin:auto;
+}
+
+.argument {
+background-color: #fff;
+width: 80vw;
+height: 50vh;
+border-top-left-radius: 25px;
+border-top-right-radius: 25px;
+}
+
+.tab {
+background-color: #ff2440;
+width: 80vw;
+height: 30vh;
+border-bottom-left-radius: 25px;
+border-bottom-right-radius: 25px;
+}
+
+.wrapper-images {
+margin: auto;
+padding-top: 25px;
+}
+
+.img-dv {
+display: inline-block;
+margin-right: 15px;
+}
+
+.icone {
+border-radius: 10px;
+}
