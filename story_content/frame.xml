@@ -1120,6 +1120,7 @@
       <string id="definition">Définition </string>
       <string id="search_results">Résultats de la recherche</string>
       <string id="terms">Conditions</string>
+      <string id="bio">Biographie</string>
       <string id="search_in">Rechercher dans:</string>
       <string id="transcript_chk">Commentaires</string>
       <string id="slide_text_chk">Slide Texte</string>
@@ -1135,7 +1136,6 @@
       <string id="resources">Ressources</string>
       <string id="closed_captions">Sous-titres</string>
       <string id="more_info">Plus d'infos</string>
-      <string id="bio">Biographie</string>
       <string id="acc_play">jouer</string>
       <string id="acc_pause">mettre sur pause</string>
       <string id="acc_previous">précédente</string>
